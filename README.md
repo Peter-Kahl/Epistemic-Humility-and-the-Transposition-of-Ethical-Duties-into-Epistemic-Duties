@@ -19,12 +19,12 @@ epistemic humility, epistemic transposition, fiduciary theory, fiduciary duties,
 Correspondence regarding this work is welcome.
 
 Download this scholarly work as a PDF for sharing and citation:
-[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf)
+[PDF download](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/master/Kahl%20P%2C%20Epistemic%20Humility%20and%20the%20Transposition%20of%20Ethical%20Duties%20into%20Epistemic%20Duties%20(21%20June%202025).pdf)
 
 Cite this work:
 
 ```
-Peter Kahl, ‘Epistemic Humility and the Transposition of Ethical Duties into Epistemic Duties’ (Github, 2025) <https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/master/Kahl%20P%2C%20Who%20is%20Afraid%20of%20Free-Range%20Knowledge%20(24%20June%202025).pdf>
+Peter Kahl, ‘Epistemic Humility and the Transposition of Ethical Duties into Epistemic Duties’ (Github, 2025) <https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/master/Kahl%20P%2C%20Epistemic%20Humility%20and%20the%20Transposition%20of%20Ethical%20Duties%20into%20Epistemic%20Duties%20(21%20June%202025).pdf>
 ```
 
 ### Licence
