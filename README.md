@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/blob/main/epistemic-humility.jpg?raw=true)
 
-by Peter Kahl; published 21 June 2025< br / >
+by Peter Kahl; published 21 June 2025\
 v2 Edition 3 August 2025
 
 ### Abstract
