@@ -4,7 +4,7 @@
 
 ---
 
-by Peter Kahl, 2025-06-21; v3: 2025-09-11
+by Peter Kahl, 2025-06-21; v2: 2025-08-17
 
 [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
@@ -24,13 +24,12 @@ epistemic humility, epistemic transposition, fiduciary theory, fiduciary duties,
 
 ## Cite this work
 
-Kahl, P. (2025). _Epistemic humility and the transposition of ethical duties into epistemic duties: A philosophical and fiduciary inquiry into the normative foundations of knowledge_ (3rd edn.). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties
+Kahl, P. (2025). _Epistemic humility and the transposition of ethical duties into epistemic duties: A philosophical and fiduciary inquiry into the normative foundations of knowledge_ (v2). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties
 
 ## Publisher & Licence
 
 First published in Great Britain by Peter Kahl, 2025-06-21.\
-2nd edition published by Lex et Ratio Ltd, 2025-08-17.\
-3rd edition published by Lex et Ratio Ltd, 2025-09-11.
+2nd edition published by Lex et Ratio Ltd, 2025-08-17.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
