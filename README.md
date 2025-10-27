@@ -14,11 +14,11 @@ by Peter Kahl, 2025-06-21; v3: 2025-10-27
 
 ## Abstract
 
-This paper advances an original philosophical framework integrating fiduciary theory and epistemic virtue ethics through the concept of **epistemic transposition**—the reformulation of ethical duties as epistemic obligations grounded in **epistemic humility**. It argues that fiduciary and ethical duties such as loyalty, honesty, and openness are not merely moral in nature but _fundamentally epistemic_, expressing virtues of intellectual honesty, transparency, and responsiveness to evidence. Drawing on the fiduciary scholarship of Lionel Smith and Paul B. Miller, the institutional epistemic ethics of Ronald Barnett, and my own prior work on fiduciary openness and epistemic justice, the paper demonstrates that epistemic humility is the foundational virtue underpinning both ethical and fiduciary accountability.
+This paper advances an original philosophical framework integrating fiduciary theory and epistemic virtue ethics through the concept of **epistemic transposition**—the reformulation of ethical duties as epistemic obligations grounded in _epistemic humility_. It argues that fiduciary and ethical duties such as loyalty, honesty, and openness are not merely moral in nature but _fundamentally epistemic_, expressing virtues of intellectual honesty, transparency, and responsiveness to evidence. Drawing on the fiduciary scholarship of Lionel Smith and Paul B. Miller, the institutional epistemic ethics of Ronald Barnett, and my own prior work on fiduciary openness and epistemic justice, the paper demonstrates that _epistemic humility is the foundational virtue_ underpinning both ethical and fiduciary accountability.
 
 By reconceptualising fiduciary responsibility as epistemic responsibility, this work unifies previously distinct traditions in ethics, epistemology, and governance. The resulting **fiduciary-epistemic theory** positions **epistemic humility** as a _normative virtue_ with independent moral authority, essential to institutional integrity, epistemic justice, and trustworthy governance.
 
-This study constitutes Part I of the research series Epistemic Humility as the Architecture of Duty. It establishes the theoretical foundations for Part II, From Epistemic Humility to Fiduciary Cognition: Re-founding Ethical Duty as Epistemic Governance, which will extend the inquiry by modelling fiduciary cognition as the dynamic architecture of epistemic responsibility.
+This study constitutes Part I of the research series _Epistemic Humility as the Architecture of Duty_. It establishes the theoretical foundations for Part II, _From Epistemic Humility to Fiduciary Cognition: Re-founding Ethical Duty as Epistemic Governance_, which will extend the inquiry by modelling fiduciary cognition as the dynamic architecture of epistemic responsibility.
 
 ## Keywords
 
@@ -30,7 +30,7 @@ epistemic humility, epistemic transposition, fiduciary theory, fiduciary duties,
 
 ## Cite this work
 
-Kahl, P. (2025). _Epistemic humility and the transposition of ethical duties into epistemic duties: A philosophical and fiduciary inquiry into the normative foundations of knowledge_ (v3). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties DOI: https://doi.org/10.5281/zenodo.17453582
+Kahl, P. (2025). _Epistemic humility and the transposition of ethical duties into epistemic duties: A philosophical and fiduciary inquiry into the normative foundations of knowledge_ (v3). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties DOI: https://doi.org/10.5281/zenodo.17453582
 
 ## Publisher & Licence
 
