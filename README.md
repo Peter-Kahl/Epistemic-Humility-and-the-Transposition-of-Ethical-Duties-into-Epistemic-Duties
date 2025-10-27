@@ -6,7 +6,7 @@ _Part I of the research series Epistemic Humility as the Architecture of Duty_
 
 ---
 
-by Peter Kahl, 2025-06-21; v2: 2025-10-27
+by Peter Kahl, 2025-06-21; v3: 2025-10-27
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17453582-blue.svg)](https://doi.org/10.5281/zenodo.17453582) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
