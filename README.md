@@ -10,7 +10,7 @@ by Peter Kahl, 2025-06-21; v3: 2025-10-27
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17453582-blue.svg)](https://doi.org/10.5281/zenodo.17453582) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
-![alt text](https://github.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/blob/main/epistemic-humility.jpg?raw=true)
+![Abstract image consisting of slanted rectangular shapes of saturated colours.](https://github.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/blob/main/epistemic-humility.jpg?raw=true)
 
 ## Abstract
 
@@ -26,7 +26,9 @@ epistemic humility, epistemic transposition, fiduciary theory, fiduciary duties,
 
 ## Download
 
-- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/master/Kahl_P_Epistemic_Humility_and_the_Transposition_of_Ethical_Duties_into_Epistemic_Duties_v3_2025-10-27.pdf)
+- [Dowload version v3](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/master/Kahl_P_Epistemic_Humility_and_the_Transposition_of_Ethical_Duties_into_Epistemic_Duties_v3_2025-10-27.pdf) ✅ _latest_
+- [Dowload version v2](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/master/Kahl_P_Epistemic_Humility_and_the_Transposition_of_Ethical_Duties_into_Epistemic_Duties_v2_3_August_2025.pdf)
+- [Dowload version v1](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Humility-and-the-Transposition-of-Ethical-Duties-into-Epistemic-Duties/master/Kahl_P_Epistemic_Humility_and_the_Transposition_of_Ethical_Duties_into_Epistemic_Duties_21-June-2025.pdf)
 
 ## Cite this work
 
@@ -34,10 +36,9 @@ Kahl, P. (2025). _Epistemic humility and the transposition of ethical duties int
 
 ## Publisher & Licence
 
-First published in London by Peter Kahl, 2025-06-21.\
+v1 published in London by Peter Kahl, 2025-06-21.\
 v2 published in London by Lex et Ratio Ltd, 2025-08-17.\
 v3 published in London by Lex et Ratio Ltd, 2025-10-27.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification.\
+© 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
